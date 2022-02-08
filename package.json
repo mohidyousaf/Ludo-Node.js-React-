@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "webpack": "^5.68.0",
+    "websocket": "^1.0.34",
+    "ws": "^8.5.0"
+  }
+}
